@@ -47,9 +47,9 @@ class _ExampleHomeScreenState extends State<ExampleHomeScreen> {
                   context: context,
                   initialTime: TimeOfDay.now(),
                   startActiveHour: 8,
-                  startActiveMinute: 0,
+                  startActiveMinute: 30,
                   endActiveHour: 17,
-                  endActiveMinute: 0,
+                  endActiveMinute: 45,
                 );
                 if (result != null) {
                   setState(() {

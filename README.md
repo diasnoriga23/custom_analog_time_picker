@@ -1,3 +1,5 @@
+![Demo Preview](doc/demo.gif)
+
 # Custom Analog Time Picker
 
 A customizable 24-hour analog time picker dialog for Flutter applications with operational hours restriction, minute intervals, custom styling, and overnight shift validation.
