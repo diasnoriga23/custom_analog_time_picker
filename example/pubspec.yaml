@@ -1,0 +1,16 @@
+name: example
+description: Example app for custom_analog_time_picker.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  custom_analog_time_picker:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
