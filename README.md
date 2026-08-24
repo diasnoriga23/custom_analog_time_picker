@@ -1,4 +1,4 @@
-<img src="doc/demo.gif" alt="Demo Preview" height="500" />
+<img src="https://raw.githubusercontent.com/diasnoriga23/custom_analog_time_picker/main/doc/demo.gif" alt="Demo Preview" height="500" />
 
 # Custom Analog Time Picker
 
@@ -17,7 +17,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  custom_analog_time_picker: ^1.0.0
+  custom_analog_time_picker: ^1.0.1
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 name: custom_analog_time_picker
 description: A 24-hour analog time picker dialog for Flutter with operational hours filtering, custom styling, and overnight shift support.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/diasnoriga23/custom_analog_time_picker
 repository: https://github.com/diasnoriga23/custom_analog_time_picker
 issue_tracker: https://github.com/diasnoriga23/custom_analog_time_picker/issues
