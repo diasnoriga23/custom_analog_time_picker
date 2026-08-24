@@ -1,4 +1,4 @@
-<img src="doc/demo.gif" alt="Demo Preview" height="400" />
+<img src="doc/demo.gif" alt="Demo Preview" height="500" />
 
 # Custom Analog Time Picker
 
