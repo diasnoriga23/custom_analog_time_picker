@@ -10,6 +10,7 @@ dependencies:
     sdk: flutter
   custom_analog_time_picker:
     path: ../
+  material_ui: ^1.2.0
 
 dev_dependencies:
   flutter_test:

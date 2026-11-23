@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/diasnoriga23/custom_analog_time_picker/main/doc/demo.gif" alt="Demo Preview" height="500" />
+<img src="https://raw.githubusercontent.com/diasnoriga23/custom_analog_time_picker/main/doc/demo.gif" alt="Demo Preview" height="300" />
 
 # Custom Analog Time Picker
 
@@ -23,7 +23,7 @@ dependencies:
 ## Usage
 
 ```dart
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:custom_analog_time_picker/custom_analog_time_picker.dart';
 
 Future<void> _selectTime(BuildContext context) async {

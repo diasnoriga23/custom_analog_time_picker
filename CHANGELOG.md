@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Migrated Material imports from `package:flutter/material.dart` to `package:material_ui/material_ui.dart` for Flutter SDK compatibility.
+
 ## 1.0.1
 
 - Added demo preview GIF to README documentation.
